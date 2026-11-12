@@ -1,128 +1,135 @@
 <div align="center">
 
-<!-- Typing SVG Header -->
-<a href="https://github.com/baranadsuna">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=26&duration=2800&pause=1000&color=38BDF8&center=true&vCenter=true&width=750&lines=Baran+Adsuna+%7C+%C5%9Eehir+ve+B%C3%B6lge+Planc%C4%B1s%C4%B1;Dokuz+Eyl%C3%BCl+%C3%9Cniversitesi+%E2%80%94+%C5%9Eehir+ve+B%C3%B6lge+Planlama;Production-Grade+PyQGIS+Plugin+Architect;Spatial+Data+Science+%E2%80%A2+GeoAI+%E2%80%A2+Urban+Morphology;Zero+Hallucination+%E2%80%A2+Real+DOIs+%E2%80%A2+EPSG%3A5253" alt="Baran Adsuna - Typing Banner" />
-</a>
+<!-- Smooth Waving Gradient Animated Header Banner -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0:0ea5e9,25:38bdf8,50:6366f1,75:8b5cf6,100:d946ef&height=230&section=header&text=Baran%20Adsuna&fontSize=48&fontAlign=50&fontAlignY=38&animation=fadeIn&fontColor=ffffff&desc=Urban%20Planner%20%E2%80%A2%20Spatial%20Data%20Scientist%20%E2%80%A2%20PyQGIS%20Plugin%20Architect&descSize=18&descAlign=50&descAlignY=62&descColor=f0f9ff" width="100%" alt="Baran Adsuna Banner" />
 
 <p align="center">
-  <b>🌍 Şehir & Bölge Planlama &nbsp;•&nbsp; 🛰️ PyQGIS Eklenti Mühendisliği &nbsp;•&nbsp; 📐 Kentsel Morfoloji &nbsp;•&nbsp; ⚡ GeoAI</b>
+  <img src="https://img.shields.io/badge/Focus-Urban%20%26%20Regional%20Planning-38bdf8?style=for-the-badge&logo=google-maps&logoColor=white" alt="Focus"/>
+  <img src="https://img.shields.io/badge/Affiliation-Dokuz%20Eyl%C3%BCl%20University-6366f1?style=for-the-badge&logo=google-classroom&logoColor=white" alt="University"/>
+  <img src="https://img.shields.io/badge/Specialization-PyQGIS%20%26%20GeoAI-ec4899?style=for-the-badge&logo=python&logoColor=white" alt="Specialization"/>
+  <img src="https://img.shields.io/badge/CRS%20Standard-EPSG%3A5253%20TUREF-10b981?style=for-the-badge&logo=qgis&logoColor=white" alt="CRS"/>
 </p>
 
 <p align="center">
-  <a href="https://github.com/baranadsuna"><img src="https://img.shields.io/github/followers/baranadsuna?label=GitHub%20Followers&style=for-the-badge&logo=github&color=0ea5e9&logoColor=white" alt="Followers"/></a>
-  <a href="https://github.com/baranadsuna?tab=repositories"><img src="https://img.shields.io/badge/Open%20Source-Plugins%20%26%20Research-10b981?style=for-the-badge&logo=git&logoColor=white" alt="Open Source"/></a>
-  <a href="mailto:baranadsuna@gmail.com"><img src="https://img.shields.io/badge/Contact-baranadsuna%40gmail.com-f59e0b?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
-  <img src="https://img.shields.io/badge/Standard-EPSG%3A5253%20TUREF-6366f1?style=for-the-badge&logo=qgis&logoColor=white" alt="EPSG:5253"/>
+  <a href="https://github.com/baranadsuna"><img src="https://img.shields.io/github/followers/baranadsuna?label=GitHub%20Followers&style=flat-square&logo=github&color=0ea5e9&logoColor=white" alt="Followers"/></a>
+  <a href="https://github.com/baranadsuna?tab=repositories"><img src="https://img.shields.io/badge/Repositories-Public%20%26%20Open%20Source-10b981?style=flat-square&logo=git&logoColor=white" alt="Repos"/></a>
+  <a href="mailto:baranadsunaa@gmail.com"><img src="https://img.shields.io/badge/Email-baranadsunaa%40gmail.com-ea4335?style=flat-square&logo=gmail&logoColor=white" alt="Email"/></a>
+  <img src="https://img.shields.io/badge/License-GPL--2.0%20Open%20Source-f59e0b?style=flat-square&logo=gnu&logoColor=white" alt="License"/>
 </p>
 
 ---
 
 </div>
 
-### 🚀 Hakkımda / Academic & Engineering Profile
+### 🚀 About Me & Academic Vision
 
-Dokuz Eylül Üniversitesi **Şehir ve Bölge Planlama Bölümü** lisans öğrencisiyim. Geleneksel planlama kuramlarını (Nolli morfolojisi, MPYY standartları, kentsel donatı erişilebilirliği, afet kırılganlık sentezleri) modern **mekânsal algoritmalar**, **topolojik ağ grafikleri** ve **PyQGIS eklenti mühendisliği** ile birleştiren açık kaynaklı araçlar geliştiriyorum.
+I am an undergraduate researcher and student at **Dokuz Eylül University, Faculty of Architecture — Department of Urban and Regional Planning** (İzmir, Turkey). I bridge urban planning theories (*Nolli figure-ground morphology, MPYY zoning standards, pedestrian walkability catchments, and 3D disaster vulnerability*) with modern **computational spatial data science**, **topological network graphs**, and **production-grade PyQGIS plugin engineering**.
 
-Hocalarımızın sıklıkla vurguladığı gibi: *Planlama yalnızca masa başında çizgi çizmek değil; matematiksel, denetlenebilir ve mekânsal adalet odaklı analitik bir karar verme sürecidir.* Bu vizyon doğrultusunda, şehir plancılarının günlerini alan karmaşık analizleri tek tıkla çözüp yönetici raporlarına dönüştüren, **QGIS 3 & QGIS 4 (Qt5/Qt6)** tam uyumlu, endüstri ve akademi standartlarında eklentiler üretiyorum.
+> *"Urban planning is not merely drafting visual layouts on a map; it is a mathematically rigorous, auditable, and spatial equity-driven science."*
+
+Guided by this academic ethos, I build robust, high-performance tools compatible with **QGIS 3 & QGIS 4 (Qt5 & Qt6)** that compress weeks of manual planning workflows into single-click deterministic spatial algorithms and executive-ready reports.
 
 ---
 
-### 🛡️ Değişmez Akademik & Mühendislik İlkelerim (The 5 Golden Rules)
+### 🛡️ Immutable Academic & Engineering Laws (The 5 Golden Rules)
 
-Tüm projelerim ve GitHub üzerindeki kod tabanım 5 temel anayasal kurala göre yönetilir:
+Every repository, algorithmic pipeline, and plugin under this profile is bound by five strict governance principles:
 
-| # | İlke | Açıklama |
+| # | Principle | Description & Enforcement |
 | :---: | :--- | :--- |
-| **1** | **🎯 Sıfır Halüsinasyon (Zero Hallucination)** | Asla sentetik, uydurma veya hayali veri/katman üretilmez. Her metrik gerçek geometriye ve deterministik matematiğe dayanır. |
-| **2** | **📜 Gerçek DOI Zorunluluğu** | Rapora veya arayüze giren her akademik referans Crossref / DOI.org API doğrulamalıdır. |
-| **3** | **🔗 Öksüz Analiz Yok (No Orphan Analysis)** | Yapılan her mekânsal analiz ya bir ara/genel planlama sentezinde kullanılır ya da gerekçesi raporlanır. |
-| **4** | **🌐 EPSG:5253 Projeksiyon Standardı** | Tüm hesaplamalar, Öklid/Ağ mesafeleri ve alan metrikleri Türkiye Ulusal Referans Çerçevesi (TUREF / TM30) standardında çalışır. |
-| **5** | **🧠 Bireysel Sorumluluk & Şeffaflık** | Algoritmik altyapılar ortak olsa dahi planlama kararları, katsayılar ve müdahale alanları araştırmacının özgün aklını yansıtır. |
+| **1** | **🎯 Zero Hallucination** | No synthetic, fabricated, or AI-generated dummy spatial layers. Every metric is computed against real geometries and deterministic spatial math. |
+| **2** | **📜 Real DOI Requirement** | Every academic reference cited across plugins, reports, and documentation is verified via Crossref & DOI.org APIs. |
+| **3** | **🔗 No Orphan Analysis** | Every spatial analysis must feed directly into a planning synthesis (e.g. vulnerability matrix, accessibility index) or justify its omission. |
+| **4** | **🌐 CRS Standard: EPSG:5253** | All geometries, network distances, and area calculations strictly execute within the Turkish National Reference Frame (TUREF / TM30). |
+| **5** | **🧠 Creative Responsibility** | While computational backends are shared, planning interventions, weighting coefficients, and policy thresholds reflect individual intellectual judgment. |
 
 ---
 
-### 🏛️ Amiral Gemisi QGIS Eklentileri & Açık Kaynak Projelerim
+### 🏛️ Flagship QGIS Plugins & Spatial Engineering Suite
 
 <div align="center">
 
-| Eklenti & Repo | Açıklama & Algoritmik Yetenekler | Standartlar & Rozetler |
+| Plugin & Repository | Capabilities, Architecture & Impact | Technical Badges |
 | :--- | :--- | :--- |
-| **🏙️ [AkilliBolgelemeAraci](https://github.com/baranadsuna/AkilliBolgelemeAraci)**<br><sub>*Urban Zoning & Disaster Vulnerability Suite*</sub> | • **9 Stratejik Önayar:** Doğal vadi koridorları, aktif fay/taşkın tamponları, rezerv konut gelişimi.<br>• **3D Afet Kırılganlığı:** Maruziyet ($E$), Hassasiyet ($S$), Uyum Kapasitesi ($AC$) sentezi.<br>• **Akıllı Nüfus Motoru:** Blok tabanlı konut/karma alan ağırlıklı nüfus dağıtımı.<br>• **Otomatik Raporlama:** Çok sayfalı Excel (.xlsx) ve tek tık yönetici özeti. | `QGIS 3 & 4`<br>`Qt5 & Qt6 Scoped`<br>`Ward Clustering`<br>`GPL-2.0` |
-| **📐 [doluluk_bosluk_analizi](https://github.com/baranadsuna/doluluk_bosluk_analizi)**<br><sub>*Figure-Ground & Building Coverage Analyzer*</sub> | • **Kentsel Morfoloji & Nolli Analizi:** Yapı taban alanları (BCR/TAKS) ile açık alan geçirgenliği.<br>• **Yüksek Performans:** `QgsSpatialIndex` ile $O(\log N)$ anlık mekânsal kesişim hesabı.<br>• **Adaptif Tematik Harita:** 5 sınıflı kentsel ısı haritası, Nolli monokrom ve eko-trafik stilleri.<br>• **4 Dilde Canlı UI:** İngilizce, Türkçe, Çince ve Endonezce anlık dil değişimi. | `Multilingual (4L)`<br>`QgsSpatialIndex`<br>`Nolli Morphology`<br>`GPL-2.0` |
-| **🌳 [yesil_alan_erisimi](https://github.com/baranadsuna/yesil_alan_erisimi)**<br><sub>*Green Space Accessibility & Walkability*</sub> | • **Gerçek Yol Ağı Topolojisi:** Kuş uçuşu yanılsamasını ortadan kaldıran gerçekçi yaya rotalama.<br>• **Yürüme İzokronları:** 500m ve 1000m yaya erişim havzaları (*Pedshed Ratio*).<br>• **P-Median Optimizasyonu:** Aktif yeşil alanlar için tesis yükü ve mekânsal eşitlik analizi. | `NetworkX Graph`<br>`Walkability`<br>`P-Median Solver`<br>`5 Languages` |
-| **🏛️ [mpyy_donati_analiz](https://github.com/baranadsuna/mpyy_donati_analiz)**<br><sub>*MPYY Annex-2 Infrastructure Compliance*</sub> | • **Yasal Standart Denetimi:** Mekânsal Planlar Yapım Yönetmeliği (Ek-2) kişi başı asgari donatı hesabı.<br>• **Dijkstra Topolojik Ağ Grafiği:** Eğitim, sağlık, park ve ibadet donatılarına gerçek mesafe analizi.<br>• **Akıllı Parsel Bölücü:** *Binary Polygon Splitting* ile donatı açıklarını parsel düzeyinde giderme. | `MPYY Ek-2`<br>`Dijkstra Network`<br>`Polygon Splitter`<br>`GeoPackage` |
-| **🤖 [01_qgis_lite_agent_mcp](https://github.com/baranadsuna/01_qgis_lite_agent_mcp)**<br><sub>*AI Agent & Model Context Protocol Bridge*</sub> | • **PyQGIS için GeoAI Ajanı:** LLM'ler ile PyQGIS arasında güvenli köprü kuran yerel MCP sunucusu.<br>• **AST Güvenlik Sandbox'ı:** Kodları çalıştırmadan önce AST seviyesinde denetleyip korur.<br>• **Grafik Model Çıktısı:** Doğal dil komutlarından doğrudan `.model3` QGIS modeli üretir. | `GeoAI / MCP`<br>`AST Sandbox`<br>`.model3 Export`<br>`Privacy First` |
+| **🏙️ [AkilliBolgelemeAraci](https://github.com/baranadsuna/AkilliBolgelemeAraci)**<br><sub>*Urban Zoning & Disaster Vulnerability Suite*</sub> | • **9 Strategy Presets:** Organic valley corridors, active fault/flood buffers, vacant land growth.<br>• **3D Disaster Vulnerability:** Exposure ($E$), Sensitivity ($S$), Adaptive Capacity ($AC$) synthesis.<br>• **Smart Population Engine:** Building footprint & floor-weighted residential block disaggregation.<br>• **Executive Reporting:** Automated multi-sheet Excel (.xlsx) and executive summary export. | <img src="https://img.shields.io/badge/QGIS-3.22%20--%204.99-589632?style=flat-square&logo=qgis&logoColor=white"/><br><img src="https://img.shields.io/badge/Qt-Qt5%20%26%20Qt6%20Scoped-41CD52?style=flat-square&logo=qt&logoColor=white"/><br><img src="https://img.shields.io/badge/Clustering-Ward%20Spatial-0288D1?style=flat-square"/><br><img src="https://img.shields.io/badge/Status-Review%20Hardened-10b981?style=flat-square"/> |
+| **📐 [doluluk_bosluk_analizi](https://github.com/baranadsuna/doluluk_bosluk_analizi)**<br><sub>*Figure-Ground & Building Coverage Analyzer*</sub> | • **Urban Morphology & Nolli Analysis:** Precise solid-void ratio and Building Coverage Ratio (BCR / TAKS).<br>• **High Performance:** $O(\log N)$ spatial indexing powered by native `QgsSpatialIndex`.<br>• **Adaptive Thematic Symbology:** 5-class Urban Heatmap, Nolli Monochrome, and Eco-Traffic.<br>• **Quad-Lingual Interface:** Real-time live language switching across English, Turkish, Chinese, and Indonesian. | <img src="https://img.shields.io/badge/Languages-EN%20%7C%20TR%20%7C%20ZH%20%7C%20ID-3B82F6?style=flat-square"/><br><img src="https://img.shields.io/badge/Performance-QgsSpatialIndex-E65100?style=flat-square"/><br><img src="https://img.shields.io/badge/Morphology-Nolli%20Analysis-9C27B0?style=flat-square"/><br><img src="https://img.shields.io/badge/License-GPL--2.0-F59E0B?style=flat-square"/> |
+| **🌳 [yesil_alan_erisimi](https://github.com/baranadsuna/yesil_alan_erisimi)**<br><sub>*Green Space Accessibility & Walkability Network*</sub> | • **Topological Network Routing:** Replaces deceptive Euclidean buffers with realistic street graph paths.<br>• **Pedestrian Isochrones:** 500m and 1000m walkable catchment basins and *Pedshed Ratio* calculations.<br>• **P-Median Facility Optimization:** Measures facility load distribution and evaluates spatial equity across neighborhoods. | <img src="https://img.shields.io/badge/Graph-NetworkX%20Topology-FF7F0E?style=flat-square"/><br><img src="https://img.shields.io/badge/Analysis-Isochrones%20%26%20Pedshed-10B981?style=flat-square"/><br><img src="https://img.shields.io/badge/Optimization-P--Median%20Model-6366F1?style=flat-square"/><br><img src="https://img.shields.io/badge/UI-5%20Languages-EC4899?style=flat-square"/> |
+| **🏛️ [mpyy_donati_analiz](https://github.com/baranadsuna/mpyy_donati_analiz)**<br><sub>*MPYY Annex-2 Infrastructure Compliance*</sub> | • **Regulatory Standard Audit:** Computational verification of Turkish Spatial Plans Regulation (MPYY Annex-2).<br>• **Dijkstra Road Graph:** Network accessibility to schools, health centers, religious and open green facilities.<br>• **Smart Parcel Splitter:** Algorithmic *Binary Polygon Splitting* to allocate compliant reserve parcels automatically. | <img src="https://img.shields.io/badge/Regulation-MPYY%20Annex--2-D97706?style=flat-square"/><br><img src="https://img.shields.io/badge/Routing-Dijkstra%20Graph-0EA5E9?style=flat-square"/><br><img src="https://img.shields.io/badge/Geometry-Binary%20Splitter-8B5CF6?style=flat-square"/><br><img src="https://img.shields.io/badge/Format-GeoPackage%20Native-059669?style=flat-square"/> |
+| **🤖 [01_qgis_lite_agent_mcp](https://github.com/baranadsuna/01_qgis_lite_agent_mcp)**<br><sub>*AI Agent & Model Context Protocol Bridge*</sub> | • **GeoAI Agent for PyQGIS:** Local Model Context Protocol (MCP) server enabling safe LLM-to-GIS loopback.<br>• **AST Security Sandbox:** Pre-flight AST validation preventing dangerous arbitrary code execution.<br>• **Graphical Model Synthesis:** Converts natural language spatial instructions directly into native `.model3` workflows. | <img src="https://img.shields.io/badge/AI-Model%20Context%20Protocol-8B5CF6?style=flat-square"/><br><img src="https://img.shields.io/badge/Security-AST%20Sandbox-EF4444?style=flat-square"/><br><img src="https://img.shields.io/badge/Export-.model3%20Native-10B981?style=flat-square"/><br><img src="https://img.shields.io/badge/Privacy-Zero%20Data%20Leak-3B82F6?style=flat-square"/> |
 
 </div>
 
 ---
 
-### 💻 Teknoloji & Mekânsal Analiz Cephaneliği (Tech Arsenal)
+### 💻 Computational & Spatial Technology Stack
 
 <div align="center">
 
-#### 🛠️ Diller & Çekirdek Çatılar
+#### 🛠️ Core Languages & Runtime Frameworks
 <p>
-  <img src="https://skillicons.dev/icons?i=python,cpp,qt,git,github,bash,powershell,linux,vscode" alt="Tech Stack Icons" />
+  <img src="https://skillicons.dev/icons?i=python,cpp,qt,git,github,bash,powershell,linux,postgres,postgis,sqlite,docker,vscode,markdown,latex" alt="Core Tech Stack" />
 </p>
 
-#### 🌍 GIS & Mekânsal Veri Bilimi Kütüphaneleri
+#### 🌍 Geospatial & Data Science Ecosystem
 <p>
-  <img src="https://img.shields.io/badge/QGIS%203%20%26%204-589632?style=flat-square&logo=qgis&logoColor=white" alt="QGIS"/>
-  <img src="https://img.shields.io/badge/PyQGIS%20API-3776AB?style=flat-square&logo=python&logoColor=white" alt="PyQGIS"/>
-  <img src="https://img.shields.io/badge/GDAL%20%2F%20OGR-006600?style=flat-square&logo=osgeo&logoColor=white" alt="GDAL"/>
-  <img src="https://img.shields.io/badge/GeoPandas-139C5A?style=flat-square&logo=pandas&logoColor=white" alt="GeoPandas"/>
-  <img src="https://img.shields.io/badge/Shapely-3776AB?style=flat-square&logo=python&logoColor=white" alt="Shapely"/>
-  <img src="https://img.shields.io/badge/NetworkX-FF7F0E?style=flat-square&logo=python&logoColor=white" alt="NetworkX"/>
-  <img src="https://img.shields.io/badge/OSMnx-3B82F6?style=flat-square&logo=openstreetmap&logoColor=white" alt="OSMnx"/>
-  <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white" alt="Scikit-Learn"/>
-  <img src="https://img.shields.io/badge/Rasterio-0288D1?style=flat-square&logo=python&logoColor=white" alt="Rasterio"/>
-  <img src="https://img.shields.io/badge/Google%20Earth%20Engine-4285F4?style=flat-square&logo=google-earth&logoColor=white" alt="GEE"/>
+  <img src="https://img.shields.io/badge/QGIS%203%20%26%204-589632?style=for-the-badge&logo=qgis&logoColor=white" alt="QGIS"/>
+  <img src="https://img.shields.io/badge/PyQGIS%20API-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="PyQGIS"/>
+  <img src="https://img.shields.io/badge/GDAL%20%2F%20OGR-006600?style=for-the-badge&logo=osgeo&logoColor=white" alt="GDAL"/>
+  <img src="https://img.shields.io/badge/GeoPandas-139C5A?style=for-the-badge&logo=pandas&logoColor=white" alt="GeoPandas"/>
+  <img src="https://img.shields.io/badge/Shapely-2D3748?style=for-the-badge&logo=python&logoColor=white" alt="Shapely"/>
+  <img src="https://img.shields.io/badge/NetworkX-FF7F0E?style=for-the-badge&logo=python&logoColor=white" alt="NetworkX"/>
+  <img src="https://img.shields.io/badge/OSMnx-3B82F6?style=for-the-badge&logo=openstreetmap&logoColor=white" alt="OSMnx"/>
+  <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" alt="Scikit-Learn"/>
+  <img src="https://img.shields.io/badge/Rasterio-0288D1?style=for-the-badge&logo=python&logoColor=white" alt="Rasterio"/>
+  <img src="https://img.shields.io/badge/Earth%20Engine-4285F4?style=for-the-badge&logo=google-earth&logoColor=white" alt="GEE"/>
 </p>
 
-#### 📊 Veri Tabanları & Görselleştirme
+#### 📊 Spatial Databases & High-Performance Visualization
 <p>
-  <img src="https://img.shields.io/badge/PostGIS-336791?style=flat-square&logo=postgresql&logoColor=white" alt="PostGIS"/>
-  <img src="https://img.shields.io/badge/GeoPackage-5B7C99?style=flat-square&logo=sqlite&logoColor=white" alt="GeoPackage"/>
-  <img src="https://img.shields.io/badge/Deck.gl-000000?style=flat-square&logo=uber&logoColor=white" alt="Deck.gl"/>
-  <img src="https://img.shields.io/badge/KaTeX%20Math-111111?style=flat-square&logo=latex&logoColor=white" alt="KaTeX"/>
-  <img src="https://img.shields.io/badge/DuckDB-FFF000?style=flat-square&logo=duckdb&logoColor=black" alt="DuckDB"/>
+  <img src="https://img.shields.io/badge/PostGIS-336791?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostGIS"/>
+  <img src="https://img.shields.io/badge/GeoPackage-5B7C99?style=for-the-badge&logo=sqlite&logoColor=white" alt="GeoPackage"/>
+  <img src="https://img.shields.io/badge/DuckDB-FFF000?style=for-the-badge&logo=duckdb&logoColor=black" alt="DuckDB"/>
+  <img src="https://img.shields.io/badge/Deck.gl-000000?style=for-the-badge&logo=uber&logoColor=white" alt="Deck.gl"/>
+  <img src="https://img.shields.io/badge/KaTeX%20Math-111111?style=for-the-badge&logo=latex&logoColor=white" alt="KaTeX"/>
 </p>
 
 </div>
 
 ---
 
-### 📈 GitHub İstatistikleri & Canlı Aktivite
+### 📈 Live GitHub Activity & Analytics
 
 <div align="center">
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=baranadsuna&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&title_color=38bdf8&text_color=94a3b8&icon_color=38bdf8&bg_color=0b0f19" width="48%" alt="Baran's GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=baranadsuna&layout=compact&theme=tokyonight&hide_border=true&title_color=38bdf8&text_color=94a3b8&bg_color=0b0f19" width="48%" alt="Top Languages" />
+  <img src="https://github-stats-extended.vercel.app/api?username=baranadsuna&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&title_color=38bdf8&text_color=94a3b8&icon_color=38bdf8&bg_color=0b0f19" width="48%" alt="Baran's GitHub Stats" />
+  <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=baranadsuna&layout=compact&theme=tokyonight&hide_border=true&title_color=38bdf8&text_color=94a3b8&bg_color=0b0f19" width="48%" alt="Top Languages" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=baranadsuna&theme=tokyonight&hide_border=true&ring=38bdf8&fire=f59e0b&currStreakNum=38bdf8&sideNums=94a3b8&dates=64748b&background=0b0f19" width="96%" alt="GitHub Streak Stats" />
+  <img src="https://streak-stats.demolab.com/?user=baranadsuna&theme=tokyonight&hide_border=true&ring=38bdf8&fire=f59e0b&currStreakNum=38bdf8&sideNums=94a3b8&dates=64748b&background=0b0f19" width="96%" alt="GitHub Streak Stats" />
 </p>
 
 </div>
 
 ---
 
-### 🤝 Bağlantı & İletişim
+### 🤝 Connect & Collaboration
 
 <div align="center">
 
-Projelerime katkıda bulunmak, şehir planlama algoritmaları üzerine tartışmak veya iş birliği yapmak isterseniz dilediğiniz zaman ulaşabilirsiniz:
+Interested in collaborating on spatial algorithms, urban analytics, or PyQGIS plugin development? Feel free to connect:
 
 <p>
   <a href="https://github.com/baranadsuna"><img src="https://img.shields.io/badge/GitHub-baranadsuna-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>
-  <a href="mailto:baranadsuna@gmail.com"><img src="https://img.shields.io/badge/Gmail-baranadsuna%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/></a>
-  <a href="https://deu.edu.tr"><img src="https://img.shields.io/badge/Dokuz%20Eyl%C3%BCl%20%C3%9Cniversitesi-%C5%9Eehir%20ve%20B%C3%B6lge%20Planlama-003366?style=for-the-badge&logo=google-classroom&logoColor=white" alt="DEU"/></a>
+  <a href="mailto:baranadsunaa@gmail.com"><img src="https://img.shields.io/badge/Gmail-baranadsunaa%40gmail.com-ea4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/></a>
+  <a href="https://deu.edu.tr"><img src="https://img.shields.io/badge/Dokuz%20Eyl%C3%BCl%20University-Urban%20%26%20Regional%20Planning-003366?style=for-the-badge&logo=google-classroom&logoColor=white" alt="DEU"/></a>
 </p>
 
-<sub><i>"Şehirleri sezgilerle değil; verinin, bilimin ve mekânsal adaletin gücüyle tasarlıyoruz."</i> 🏛️📐</sub>
+<sub><i>"Designing cities not by intuition alone, but empowered by spatial data, reproducible science, and spatial justice."</i> 🏛️📐⚡</sub>
+
+<!-- Smooth Waving Gradient Footer -->
+<br>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0:0ea5e9,25:38bdf8,50:6366f1,75:8b5cf6,100:d946ef&height=90&section=footer" width="100%" alt="Footer Wave" />
 
 </div>
