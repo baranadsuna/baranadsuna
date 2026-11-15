@@ -1,0 +1,116 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1000 300" width="100%" height="100%">
+  <defs>
+    <linearGradient id="bgCyber" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#030712"/>
+      <stop offset="45%" stop-color="#051b14"/>
+      <stop offset="100%" stop-color="#04101c"/>
+    </linearGradient>
+    <linearGradient id="emeraldGrad" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#4ade80"/>
+      <stop offset="50%" stop-color="#22c55e"/>
+      <stop offset="100%" stop-color="#38bdf8"/>
+    </linearGradient>
+    <filter id="glow" x="-30%" y="-30%" width="160%" height="160%">
+      <feGaussianBlur stdDeviation="4" result="blur"/>
+      <feMerge>
+        <feMergeNode in="blur"/>
+        <feMergeNode in="SourceGraphic"/>
+      </feMerge>
+    </filter>
+    <style>
+      .title { font-family: 'Segoe UI', -apple-system, BlinkMacSystemFont, Roboto, sans-serif; font-weight: 800; }
+      .mono { font-family: 'Cascadia Code', 'Fira Code', Consolas, monospace; }
+      .grid { stroke: #10b981; stroke-opacity: 0.14; stroke-width: 1; }
+      .net-edge {
+        stroke: #22c55e; stroke-width: 2.2; fill: none;
+        stroke-dasharray: 180; stroke-dashoffset: 180;
+        animation: drawEdge 5s infinite ease-in-out;
+      }
+      @keyframes drawEdge {
+        0% { stroke-dashoffset: 180; opacity: 0.2; }
+        50% { stroke-dashoffset: 0; opacity: 0.9; }
+        100% { stroke-dashoffset: -180; opacity: 0.2; }
+      }
+    </style>
+  </defs>
+
+  <rect width="1000" height="300" rx="18" fill="url(#bgCyber)" stroke="#10b981" stroke-opacity="0.45" stroke-width="2"/>
+
+  <!-- Perspective Spatial Grid -->
+  <g>
+    <line x1="0" y1="50" x2="1000" y2="50" class="grid"/>
+    <line x1="0" y1="100" x2="1000" y2="100" class="grid"/>
+    <line x1="0" y1="150" x2="1000" y2="150" class="grid"/>
+    <line x1="0" y1="200" x2="1000" y2="200" class="grid"/>
+    <line x1="0" y1="250" x2="1000" y2="250" class="grid"/>
+    <line x1="120" y1="0" x2="120" y2="300" class="grid"/>
+    <line x1="260" y1="0" x2="260" y2="300" class="grid"/>
+    <line x1="400" y1="0" x2="400" y2="300" class="grid"/>
+    <line x1="540" y1="0" x2="540" y2="300" class="grid"/>
+    <line x1="680" y1="0" x2="680" y2="300" class="grid"/>
+    <line x1="820" y1="0" x2="820" y2="300" class="grid"/>
+  </g>
+
+  <!-- Right Side Animated Spatial Radar & Urban Topology Graph -->
+  <g transform="translate(800, 150)">
+    <circle cx="0" cy="0" r="105" fill="#064e3b" fill-opacity="0.18" stroke="#10b981" stroke-opacity="0.35" stroke-width="1.2" stroke-dasharray="5 4"/>
+    <circle cx="0" cy="0" r="70" fill="none" stroke="#22c55e" stroke-opacity="0.45" stroke-width="1.2"/>
+    <circle cx="0" cy="0" r="35" fill="none" stroke="#4ade80" stroke-opacity="0.55" stroke-width="1.2"/>
+    <!-- Rotating Radar Sweep -->
+    <g>
+      <path d="M 0 0 L 105 0 A 105 105 0 0 1 74 74 Z" fill="#22c55e" fill-opacity="0.22"/>
+      <line x1="0" y1="0" x2="105" y2="0" stroke="#4ade80" stroke-width="2" filter="url(#glow)"/>
+      <animateTransform attributeName="transform" type="rotate" from="0 0 0" to="360 0 0" dur="6s" repeatCount="indefinite"/>
+    </g>
+    <!-- Animated Graph Edges inside Radar -->
+    <path d="M -65 -40 L -15 -25 L 0 0 L 48 -35 L 75 15 L 25 55 L -45 45 Z" class="net-edge" filter="url(#glow)"/>
+    <!-- Graph Nodes -->
+    <circle cx="-65" cy="-40" r="4" fill="#4ade80"/>
+    <circle cx="-15" cy="-25" r="4" fill="#4ade80"/>
+    <circle cx="48" cy="-35" r="4.5" fill="#4ade80"/>
+    <circle cx="75" cy="15" r="4" fill="#fde047"/>
+    <circle cx="25" cy="55" r="4.5" fill="#4ade80"/>
+    <circle cx="-45" cy="45" r="4" fill="#4ade80"/>
+    <!-- Center Blue Facility Node -->
+    <circle cx="0" cy="0" r="8.5" fill="#2563eb" stroke="#ffffff" stroke-width="2.4"/>
+    <circle cx="0" cy="0" r="8.5" fill="none" stroke="#60a5fa" stroke-width="2">
+      <animate attributeName="r" values="8.5;24" dur="2s" repeatCount="indefinite"/>
+      <animate attributeName="opacity" values="0.95;0" dur="2s" repeatCount="indefinite"/>
+    </circle>
+  </g>
+
+  <!-- Left Side Glowing Identity & Spatial Telemetry -->
+  <g transform="translate(48, 42)">
+    <!-- Live Status Pill -->
+    <rect x="0" y="0" width="385" height="28" rx="14" fill="#052e16" stroke="#22c55e" stroke-width="1.2"/>
+    <circle cx="16" cy="14" r="5" fill="#4ade80" filter="url(#glow)">
+      <animate attributeName="opacity" values="1;0.25;1" dur="1.4s" repeatCount="indefinite"/>
+    </circle>
+    <text x="30" y="18" fill="#86efac" font-size="11.5" font-weight="700" class="mono">SPATIAL AI &amp; PYQGIS ENGINE • EPSG:5253 ACTIVE</text>
+
+    <!-- Main Name Title -->
+    <text x="0" y="84" fill="#ffffff" font-size="46" class="title" letter-spacing="-0.5">Baran Adsuna</text>
+    <text x="0" y="116" fill="url(#emeraldGrad)" font-size="19" class="title">Urban &amp; Regional Planner • Spatial Data Scientist • PyQGIS Architect</text>
+
+    <!-- Terminal Telemetry Box -->
+    <rect x="0" y="136" width="585" height="82" rx="10" fill="#09131c" fill-opacity="0.9" stroke="#1e293b" stroke-width="1.5"/>
+    <circle cx="18" cy="153" r="4.5" fill="#ef4444"/>
+    <circle cx="32" cy="153" r="4.5" fill="#eab308"/>
+    <circle cx="46" cy="153" r="4.5" fill="#22c55e"/>
+    <text x="64" y="157" fill="#64748b" font-size="10.5" class="mono">baran@deu-urban-planning:~/qgis_plugins$ pytest --crs EPSG:5253</text>
+    <text x="16" y="181" fill="#4ade80" font-size="12" font-weight="700" class="mono">&gt; [PASS] Accessibility Analysis v5.3.0 • Closest Facade Dijkstra • Blue Target Symbol</text>
+    <text x="16" y="202" fill="#86efac" font-size="11.5" class="mono">&gt; [PASS] QGIS 3.22–4.99 (Qt5 &amp; Qt6) • Zero Hallucination • Crossref Verified DOIs</text>
+
+    <!-- Bottom Pill Badges -->
+    <g transform="translate(0, 230)" class="mono" font-size="11" font-weight="700">
+      <rect x="0" y="0" width="160" height="26" rx="6" fill="#064e3b" stroke="#22c55e" stroke-width="1"/>
+      <text x="12" y="17" fill="#bbf7d0">🏛️ Dokuz Eylül Univ.</text>
+      <rect x="170" y="0" width="145" height="26" rx="6" fill="#0f172a" stroke="#3b82f6" stroke-width="1"/>
+      <text x="182" y="17" fill="#93c5fd">⚡ QGIS 3 &amp; 4 / Qt6</text>
+      <rect x="325" y="0" width="135" height="26" rx="6" fill="#0f172a" stroke="#10b981" stroke-width="1"/>
+      <text x="337" y="17" fill="#6ee7b7">🌐 TUREF TM30</text>
+      <rect x="470" y="0" width="115" height="26" rx="6" fill="#0f172a" stroke="#f59e0b" stroke-width="1"/>
+      <text x="482" y="17" fill="#fde047">📜 Real DOIs</text>
+    </g>
+  </g>
+</svg>
