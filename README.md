@@ -23,18 +23,11 @@
 
 </div>
 
-### 🐍 Live Animated Contribution Graph & Velocity Wave
+### 📊 Live Animated Contribution Matrix & Velocity Wave
 
 <div align="center">
 
-<!-- Live Glowing Green Contribution Snake (Auto-updated every 6h by GitHub Actions) -->
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/baranadsuna/baranadsuna/output/github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/baranadsuna/baranadsuna/output/github-snake.svg" />
-  <img alt="Animated GitHub Contribution Snake" src="https://raw.githubusercontent.com/baranadsuna/baranadsuna/output/github-snake-dark.svg" width="100%" />
-</picture>
-
-<!-- Live Glowing Green Contribution Matrix & 28-Day Commit Velocity Wave -->
+<!-- Live Glowing Green Contribution Matrix & 28-Day Commit Velocity Wave (Auto-updated every 6h by GitHub Actions) -->
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/baranadsuna/baranadsuna/output/contrib-pulse-dark.svg" />
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/baranadsuna/baranadsuna/output/contrib-pulse-light.svg" />
