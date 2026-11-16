@@ -29,6 +29,13 @@ jobs:
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
 
+      - name: Generate Live Glowing Green Contribution Matrix & Velocity Wave
+        run: |
+          python3 .github/scripts/generate_contrib_pulse.py --username "${{ github.repository_owner }}" --theme dark --out dist/contrib-pulse-dark.svg
+          python3 .github/scripts/generate_contrib_pulse.py --username "${{ github.repository_owner }}" --theme light --out dist/contrib-pulse-light.svg
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+
       - name: Push generated SVGs to output branch
         uses: crazy-max/ghaction-github-pages@v4
         with:

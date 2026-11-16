@@ -23,13 +23,25 @@
 
 </div>
 
-### 🚀 About Me & Academic Vision
+### 🐍 Live Animated Contribution Graph & Velocity Wave
 
-I am an undergraduate researcher and developer at **Dokuz Eylül University, Faculty of Architecture — Department of Urban and Regional Planning** (İzmir, Turkey). I bridge urban planning theories (*15-minute city walkability catchments, closest road-facing facade network routing, Nolli figure-ground morphology, MPYY zoning standards, and 3D disaster vulnerability*) with modern **computational spatial data science**, **topological network graphs**, and **production-grade PyQGIS plugin engineering**.
+<div align="center">
 
-> *"Urban planning is not merely drafting visual layouts on a map; it is a mathematically rigorous, auditable, and spatial equity-driven science."*
+<!-- Live Glowing Green Contribution Snake (Auto-updated every 6h by GitHub Actions) -->
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/baranadsuna/baranadsuna/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/baranadsuna/baranadsuna/output/github-snake.svg" />
+  <img alt="Animated GitHub Contribution Snake" src="https://raw.githubusercontent.com/baranadsuna/baranadsuna/output/github-snake-dark.svg" width="100%" />
+</picture>
 
-Guided by this academic ethos, I build robust, high-performance tools compatible with **QGIS 3 & QGIS 4 (Qt5 & Qt6)** that compress weeks of manual planning workflows into single-click deterministic spatial algorithms and executive-ready reports.
+<!-- Live Glowing Green Contribution Matrix & 28-Day Commit Velocity Wave -->
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/baranadsuna/baranadsuna/output/contrib-pulse-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/baranadsuna/baranadsuna/output/contrib-pulse-light.svg" />
+  <img alt="Live Glowing Green Contribution Matrix and Velocity Wave" src="https://raw.githubusercontent.com/baranadsuna/baranadsuna/output/contrib-pulse-dark.svg" width="100%" />
+</picture>
+
+</div>
 
 <img src="assets/green_pulse_divider.svg" width="100%" alt="Divider"/>
 
@@ -44,6 +56,16 @@ Guided by this academic ethos, I build robust, high-performance tools compatible
     <img src="https://raw.githubusercontent.com/baranadsuna/yesil_alan_erisimi/main/docs_github_io/assets/facade_snapping_animation.svg" width="100%" alt="Closest Road-Facing Facade Snapping vs Legacy Centroid Snapping"/>
   </a>
 </div>
+
+<img src="assets/green_pulse_divider.svg" width="100%" alt="Divider"/>
+
+### 🚀 About Me & Academic Vision
+
+I am an undergraduate researcher and developer at **Dokuz Eylül University, Faculty of Architecture — Department of Urban and Regional Planning** (İzmir, Turkey). I bridge urban planning theories (*15-minute city walkability catchments, closest road-facing facade network routing, Nolli figure-ground morphology, MPYY zoning standards, and 3D disaster vulnerability*) with modern **computational spatial data science**, **topological network graphs**, and **production-grade PyQGIS plugin engineering**.
+
+> *"Urban planning is not merely drafting visual layouts on a map; it is a mathematically rigorous, auditable, and spatial equity-driven science."*
+
+Guided by this academic ethos, I build robust, high-performance tools compatible with **QGIS 3 & QGIS 4 (Qt5 & Qt6)** that compress weeks of manual planning workflows into single-click deterministic spatial algorithms and executive-ready reports.
 
 <img src="assets/green_pulse_divider.svg" width="100%" alt="Divider"/>
 
