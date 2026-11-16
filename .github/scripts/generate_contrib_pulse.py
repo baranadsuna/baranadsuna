@@ -325,7 +325,7 @@ def build_svg(data: Dict[str, Any], username: str, mode: str = "dark") -> str:
     <animate attributeName="opacity" values="1;0.3;1" dur="1.4s" repeatCount="indefinite"/>
   </circle>
   <text x="41" y="34" fill="{pal["title"]}" font-size="12.5" font-weight="800" letter-spacing="0.3" class="ui">
-    LIVE CONTRIBUTION MATRIX &amp; VELOCITY — @{username.upper()}
+    LIVE CONTRIBUTION MATRIX &amp; VELOCITY &#8226; @{username.upper()}
   </text>
 
   <!-- Real Telemetry Pills -->
